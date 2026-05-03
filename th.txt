@@ -1,0 +1,39 @@
+main:
+index.js | app.js | server.js
+
+express js:
+node js --> HTPP api :
+node module : HTTP | HTTPS module
+            : boilerplat code:
+middleware framework:
+
+express it is not installed by default:
+npm i express
+
+web application:
+request,response
+
+
+PHP:xamp wamp
+java: apache tomcat
+
+web server:
+express server:
+
+
+HTTP methods:
+API: 
+4 HTTP METHOD:
+GET,POST,PUT,DELETE
+
+data send:
+data get:
+data update
+data delete
+
+API: application programming interface
+
+2 diff tech communication
+Frontend: react,andorind
+        API --> method ,POST,GET
+Backend: java,node[express],python
